@@ -31,7 +31,7 @@
     "gatsby": "~4.16.0",
     "gh-pages": "~4.0.0",
     "graphql": "~16.3.0",
-    "graphql-request": "~4.1.0",
+    "graphql-request": "~4.3.0",
     "js-yaml": "~4.1.0",
     "json-schema-merge-allof": "~0.8.1"
   }
